@@ -11,8 +11,8 @@ class Database
 {
     private static $dbHost = "localhost";
     private static $dbName = "bd_awf";
-    private static $dbUsername = "root";
-    private static $dbUserpassword = "";
+    private static $dbUsername = "assia";
+    private static $dbUserpassword = "Root225.";
 
     private static $connection = null;
 
